@@ -1,1 +1,1 @@
-# pnuemonia-diagnosis-lung-segmentation-masking
+# Pneumonia-diagnosis-lung-segmentation-masking
